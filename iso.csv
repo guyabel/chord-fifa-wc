@@ -1,0 +1,225 @@
+country,region,wc2010,wc2006,wc2002,wc2014,r1,g1,b1,r2,g2,b2
+American Samoa,OFC,0,0,0,0,,,,,,
+Cook Islands,OFC,0,0,0,0,,,,,,
+Fiji,OFC,0,0,0,0,,,,,,
+Kiribati,OFC,0,0,0,0,,,,,,
+New Caledonia,OFC,0,0,0,0,,,,,,
+New Zealand,OFC,1,0,0,0,255,255,255,0,0,0
+Niue,OFC,0,0,0,0,,,,,,
+Papua New Guinea,OFC,0,0,0,0,,,,,,
+Samoa,OFC,0,0,0,0,,,,,,
+Solomon Islands,OFC,0,0,0,0,,,,,,
+Tahiti,OFC,0,0,0,0,,,,,,
+Tonga,OFC,0,0,0,0,,,,,,
+Tuvalu,OFC,0,0,0,0,,,,,,
+Vanuatu,OFC,0,0,0,0,,,,,,
+Afghanistan,AFC,0,0,0,0,,,,,,
+Australia,AFC,1,1,0,1,246,200,119,48,98,81
+Bahrain,AFC,0,0,0,0,,,,,,
+Bangladesh,AFC,0,0,0,0,,,,,,
+Bhutan,AFC,0,0,0,0,,,,,,
+Brunei Darussalam,AFC,0,0,0,0,,,,,,
+Cambodia,AFC,0,0,0,0,,,,,,
+China,AFC,0,0,1,0,,,,,,
+Chinese Taipei,AFC,0,0,0,0,,,,,,
+Guam,AFC,0,0,0,0,,,,,,
+Hong Kong,AFC,0,0,0,0,,,,,,
+India,AFC,0,0,0,0,,,,,,
+Indonesia,AFC,0,0,0,0,,,,,,
+Iran,AFC,0,1,0,1,255,255,255,197,46,53
+Iraq,AFC,0,0,0,0,,,,,,
+Japan,AFC,1,1,1,1,39,42,90,39,42,90
+Jordan,AFC,0,0,0,0,,,,,,
+North Korea,AFC,1,0,0,0,211,37,41,211,37,41
+South Korea,AFC,1,1,1,1,247,36,58,0,74,173
+Kuwait,AFC,0,0,0,0,,,,,,
+Kyrgyzstan,AFC,0,0,0,0,,,,,,
+Laos,AFC,0,0,0,0,,,,,,
+Lebanon,AFC,0,0,0,0,,,,,,
+Macau,AFC,0,0,0,0,,,,,,
+Malaysia,AFC,0,0,0,0,,,,,,
+Maldives,AFC,0,0,0,0,,,,,,
+Mongolia,AFC,0,0,0,0,,,,,,
+Myanmar,AFC,0,0,0,0,,,,,,
+Nepal,AFC,0,0,0,0,,,,,,
+Northern Mariana Islands,AFC,0,0,0,0,,,,,,
+Oman,AFC,0,0,0,0,,,,,,
+Pakistan,AFC,0,0,0,0,,,,,,
+Palestine,AFC,0,0,0,0,,,,,,
+Philippines,AFC,0,0,0,0,,,,,,
+Qatar,AFC,0,0,0,0,,,,,,
+Saudi Arabia,AFC,0,1,1,0,255,255,255,68,96,91
+Singapore,AFC,0,0,0,0,,,,,,
+Sri Lanka,AFC,0,0,0,0,,,,,,
+Syria,AFC,0,0,0,0,,,,,,
+Tajikistan,AFC,0,0,0,0,,,,,,
+Thailand,AFC,0,0,0,0,,,,,,
+Timor-Leste,AFC,0,0,0,0,,,,,,
+Turkmenistan,AFC,0,0,0,0,,,,,,
+U.A.E.,AFC,0,0,0,0,,,,,,
+Uzbekistan,AFC,0,0,0,0,,,,,,
+Vietnam,AFC,0,0,0,0,,,,,,
+Yemen,AFC,0,0,0,0,,,,,,
+Anguilla,CONCACAF,0,0,0,0,,,,,,
+Antigua and Barbuda,CONCACAF,0,0,0,0,,,,,,
+Aruba,CONCACAF,0,0,0,0,,,,,,
+Bahamas,CONCACAF,0,0,0,0,,,,,,
+Barbados,CONCACAF,0,0,0,0,,,,,,
+Belize,CONCACAF,0,0,0,0,,,,,,
+Bermuda,CONCACAF,0,0,0,0,,,,,,
+Bonaire,CONCACAF,0,0,0,0,,,,,,
+British Virgin Islands,CONCACAF,0,0,0,0,,,,,,
+Canada,CONCACAF,0,0,0,0,,,,,,
+Cayman Islands,CONCACAF,0,0,0,0,,,,,,
+Costa Rica,CONCACAF,0,1,1,1,234,50,63,27,112,211
+Cuba,CONCACAF,0,0,0,0,,,,,,
+Curaçao,CONCACAF,0,0,0,0,,,,,,
+ Dominica,CONCACAF,0,0,0,0,,,,,,
+Dominican Republic,CONCACAF,0,0,0,0,,,,,,
+El Salvador,CONCACAF,0,0,0,0,,,,,,
+French Guiana,CONCACAF,0,0,0,0,,,,,,
+Grenada,CONCACAF,0,0,0,0,,,,,,
+Guadeloupe,CONCACAF,0,0,0,0,,,,,,
+Guatemala,CONCACAF,0,0,0,0,,,,,,
+Guyana,CONCACAF,0,0,0,0,,,,,,
+Haiti,CONCACAF,0,0,0,0,,,,,,
+Honduras,CONCACAF,1,0,0,1,34,85,136,255,255,255
+Jamaica,CONCACAF,0,0,0,0,,,,,,
+Martinique,CONCACAF,0,0,0,0,,,,,,
+Mexico,CONCACAF,1,1,1,1,15,117,95,255,255,255
+Montserrat,CONCACAF,0,0,0,0,,,,,,
+Nicaragua,CONCACAF,0,0,0,0,,,,,,
+Panama,CONCACAF,0,0,0,0,,,,,,
+Puerto Rico,CONCACAF,0,0,0,0,,,,,,
+Saint Kitts and Nevis,CONCACAF,0,0,0,0,,,,,,
+Saint Lucia,CONCACAF,0,0,0,0,,,,,,
+Saint-Martin,CONCACAF,0,0,0,0,,,,,,
+Saint Vincent and the Grenadines,CONCACAF,0,0,0,0,,,,,,
+Sint Maarten,CONCACAF,0,0,0,0,,,,,,
+Suriname,CONCACAF,0,0,0,0,,,,,,
+Trinidad & Tobago,CONCACAF,0,1,0,0,223,66,56,0,0,0
+Turks and Caicos Islands,CONCACAF,0,0,0,0,,,,,,
+United States,CONCACAF,1,1,1,1,255,255,255,23,57,107
+U.S. Virgin Islands,CONCACAF,0,0,0,0,,,,,,
+Argentina,CONMEBOL,1,1,1,1,134,173,213,0,0,0
+Bolivia,CONMEBOL,0,0,0,0,,,,,,
+Brazil,CONMEBOL,1,1,1,1,239,204,68,6,116,76
+Chile,CONMEBOL,1,0,0,1,211,37,41,0,64,165
+Colombia,CONMEBOL,0,0,0,1,223,211,0,51,59,62
+Ecuador,CONMEBOL,0,1,1,1,230,245,32,26,78,132
+Paraguay,CONMEBOL,1,1,1,0,222,52,53,0,64,165
+Peru,CONMEBOL,0,0,0,0,,,,,,
+Uruguay,CONMEBOL,1,0,1,1,119,164,209,0,0,0
+Venezuela,CONMEBOL,0,0,0,0,,,,,,
+Algeria,CAF,1,0,0,1,255,255,255,27,97,58
+Angola,CAF,0,1,0,0,226,61,41,0,0,0
+Benin,CAF,0,0,0,0,,,,,,
+Botswana,CAF,0,0,0,0,,,,,,
+Burkina Faso,CAF,0,0,0,0,,,,,,
+Burundi,CAF,0,0,0,0,,,,,,
+Cameroon,CAF,1,0,1,1,22,135,108,178,7,16
+Cape Verde,CAF,0,0,0,0,,,,,,
+Central African Republic,CAF,0,0,0,0,,,,,,
+Chad,CAF,0,0,0,0,,,,,,
+Comoros,CAF,0,0,0,0,,,,,,
+Ivory Coast,CAF,1,1,0,1,237,120,3,237,120,3
+Congo,CAF,0,0,0,0,,,,,,
+DR Congo,CAF,0,0,0,0,,,,,,
+Djibouti,CAF,0,0,0,0,,,,,,
+Egypt,CAF,0,0,0,0,,,,,,
+Equatorial Guinea,CAF,0,0,0,0,,,,,,
+Eritrea,CAF,0,0,0,0,,,,,,
+Ethiopia,CAF,0,0,0,0,,,,,,
+Gabon,CAF,0,0,0,0,,,,,,
+Gambia,CAF,0,0,0,0,,,,,,
+Ghana,CAF,1,1,0,1,255,255,255,0,0,0
+Guinea,CAF,0,0,0,0,,,,,,
+Guinea-Bissau,CAF,0,0,0,0,,,,,,
+Kenya,CAF,0,0,0,0,,,,,,
+Lesotho,CAF,0,0,0,0,,,,,,
+Liberia,CAF,0,0,0,0,,,,,,
+Libya,CAF,0,0,0,0,,,,,,
+Madagascar,CAF,0,0,0,0,,,,,,
+Malawi,CAF,0,0,0,0,,,,,,
+Mali,CAF,0,0,0,0,,,,,,
+Mauritania,CAF,0,0,0,0,,,,,,
+Mauritius,CAF,0,0,0,0,,,,,,
+Morocco,CAF,0,0,0,0,,,,,,
+Mozambique,CAF,0,0,0,0,,,,,,
+Namibia,CAF,0,0,0,0,,,,,,
+Niger,CAF,0,0,0,0,,,,,,
+Nigeria,CAF,1,0,1,1,42,149,115,42,149,115
+Réunion,CAF,0,0,0,0,,,,,,
+Rwanda,CAF,0,0,0,0,,,,,,
+São Tomé and Príncipe,CAF,0,0,0,0,,,,,,
+Senegal,CAF,0,0,1,0,,,,,,
+Seychelles,CAF,0,0,0,0,,,,,,
+Sierra Leone,CAF,0,0,0,0,,,,,,
+Somalia,CAF,0,0,0,0,,,,,,
+South Africa,CAF,1,0,1,0,255,210,72,52,115,102
+South Sudan,CAF,0,0,0,0,,,,,,
+Sudan,CAF,0,0,0,0,,,,,,
+Swaziland,CAF,0,0,0,0,,,,,,
+Tanzania,CAF,0,0,0,0,,,,,,
+Togo,CAF,0,1,0,0,251,196,33,103,148,68
+Tunisia,CAF,0,1,1,0,255,255,255,194,72,80
+Uganda,CAF,0,0,0,0,,,,,,
+Zambia,CAF,0,0,0,0,,,,,,
+Zanzibar,CAF,0,0,0,0,,,,,,
+Zimbabwe,CAF,0,0,0,0,,,,,,
+Albania,UEFA,0,0,0,0,,,,,,
+Andorra,UEFA,0,0,0,0,,,,,,
+Armenia,UEFA,0,0,0,0,,,,,,
+Austria,UEFA,0,0,0,0,,,,,,
+Azerbaijan,UEFA,0,0,0,0,,,,,,
+Belarus,UEFA,0,0,0,0,,,,,,
+Belgium,UEFA,0,0,1,1,227,50,56,0,0,0
+Bosnia & Herz.,UEFA,0,0,0,1,255,255,255,51,91,186
+Bulgaria,UEFA,0,0,0,0,,,,,,
+Croatia,UEFA,0,1,1,1,207,10,28,255,255,255
+Cyprus,UEFA,0,0,0,0,,,,,,
+Czech Republic,UEFA,0,1,0,0,254,53,63,67,111,169
+Denmark,UEFA,1,0,1,0,192,31,33,255,255,255
+England,UEFA,1,1,1,1,255,255,255,34,82,136
+Estonia,UEFA,0,0,0,0,,,,,,
+Faroe Islands,UEFA,0,0,0,0,,,,,,
+Finland,UEFA,0,0,0,0,,,,,,
+France,UEFA,1,1,1,1,51,51,102,255,255,255
+Georgia,UEFA,0,0,0,0,,,,,,
+Germany,UEFA,1,1,1,1,255,255,255,51,51,51
+Gibraltar,UEFA,0,0,0,0,,,,,,
+Greece,UEFA,1,0,0,1,255,255,255,87,136,182
+Hungary,UEFA,0,0,0,0,,,,,,
+Iceland,UEFA,0,0,0,0,,,,,,
+Israel,UEFA,0,0,0,0,,,,,,
+Italy,UEFA,1,1,1,1,38,128,193,255,255,255
+Kazakhstan,UEFA,0,0,0,0,,,,,,
+Latvia,UEFA,0,0,0,0,,,,,,
+Liechtenstein,UEFA,0,0,0,0,,,,,,
+Lithuania,UEFA,0,0,0,0,,,,,,
+Luxembourg,UEFA,0,0,0,0,,,,,,
+FYR Macedonia,UEFA,0,0,0,0,,,,,,
+Malta,UEFA,0,0,0,0,,,,,,
+Moldova,UEFA,0,0,0,0,,,,,,
+Montenegro,UEFA,0,0,0,0,,,,,,
+Netherlands,UEFA,1,1,0,1,237,120,3,62,62,62
+Northern Ireland,UEFA,0,0,0,0,,,,,,
+Norway,UEFA,0,0,0,0,,,,,,
+Poland,UEFA,0,1,1,0,255,255,255,198,56,60
+Portugal,UEFA,1,1,1,1,197,35,41,48,98,81
+Republic of Ireland,UEFA,0,0,0,0,,,,,,
+Romania,UEFA,0,0,0,0,,,,,,
+Russia,UEFA,0,0,1,1,168,41,52,34,82,136
+San Marino,UEFA,0,0,0,0,,,,,,
+Scotland,UEFA,0,0,0,0,,,,,,
+Serbia,UEFA,1,0,0,0,216,0,0,31,111,185
+Serbia & Mont.,UEFA,0,1,0,0,38,76,193,255,255,255
+Slovakia,UEFA,1,0,0,0,0,74,173,0,74,173
+Slovenia,UEFA,1,0,1,0,255,255,255,35,71,64
+Spain,UEFA,1,1,1,1,212,25,25,0,64,165
+Sweden,UEFA,0,1,1,0,245,201,0,4,20,128
+Switzerland,UEFA,1,1,0,1,204,51,51,255,255,255
+Turkey,UEFA,0,0,1,0,,,,,,
+Ukraine,UEFA,0,1,0,0,245,203,0,4,20,128
+Wales,UEFA,0,0,0,0,,,,,,
+None,None,0,0,0,0,,,,,,
